@@ -1,4 +1,6 @@
 # Recursion Prompts
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelko2013%2Frecursion-prompts.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSelko2013%2Frecursion-prompts?ref=badge_shield)
+
 
 ### **What is this?**
 This is a repository of toy problems to be solved using recursion and JavaScript. While the concept of recursion may not be difficult to grasp, the only way to improve at thinking recursively is by practice. If you need practice, then maybe this repo is for you.
@@ -87,3 +89,7 @@ Recursion isn't unique to any one programming language. As a software engineer, 
 Recursion is often used in _divide and conquer_ algorithms where problems can be divided into similar subproblems and conquered individually. Consider traversing a tree structure. Each branch may have its own "children" branches. Every branch is essentually just another tree which means, as long as child trees are found, we can recurse on each child.
 
 [inception]: <https://en.wikipedia.org/wiki/Inception>
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSelko2013%2Frecursion-prompts.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSelko2013%2Frecursion-prompts?ref=badge_large)
